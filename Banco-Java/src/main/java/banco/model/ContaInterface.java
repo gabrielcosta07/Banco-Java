@@ -8,6 +8,6 @@ package banco.model;
  *
  * @author Usuario
  */
-public class ContaI {
+public class ContaInterface {
     
 }
